@@ -1,6 +1,7 @@
 # certificard
 
 Portifólio feito na Imersão Dev da Alura 
+https://gabygiora.github.io/certificard/
 
 Tema escuro:
 ![image](https://user-images.githubusercontent.com/85586226/159994301-7e16ad0b-53db-4dff-b52b-1b62ea75cb85.png)
